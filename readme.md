@@ -1,8 +1,8 @@
 # ![DotDev](https://avatars3.githubusercontent.com/u/19314960?v=3&s=200)
 
-## DotDev PHP Developer Assesment
+## DotDev PHP Developer Assessment
 
-The goal of assesment is to test you skills in data structures and formatting.
+The goal of assessment is to test you skills in data structures and formatting.
 
 We have created three data objects `customers`, `orders` and `order_items` in `function loadData()`.
 
@@ -23,11 +23,11 @@ The application should take and integer from stdin or a query string parameter i
 
 #### 🖥️ CLI:
 
-`~/php assesment.php $option`
+`~/php assessment.php $option`
 
 #### 🌏 Browser:
 
-` php -S localhost:8000 - assesment.php`
+` php -S localhost:8000 - assessment.php`
 
 
 ### Example expected results
