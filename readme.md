@@ -1,6 +1,8 @@
-# ![DotDev](https://avatars3.githubusercontent.com/u/19314960?v=3&s=200)
+## Completed DotDev PHP Developer Assessment
 
-## DotDev PHP Developer Assessment
+Please see https://github.com/dotdevv/php-developer-assessment for details on this assesment. Feedback very welcome. :)
+
+### DotDev PHP Developer Assessment
 
 The goal of assessment is to test you skills in data structures and formatting.
 
